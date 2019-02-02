@@ -26,10 +26,8 @@ hover color:	#fed136 (yellow)
 Import Google Fonts
 --------------------*/
 
-/* main font for menu. */
-@import url(http://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900);
-/* font for headings, text, tags */
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800);
+/* main font for menu, headings, text, tags. */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 
 figcaption h2 {
 	margin: 40px;
