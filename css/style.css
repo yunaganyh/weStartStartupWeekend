@@ -642,7 +642,53 @@ figure.effect-bubba:hover p {
 }
 
 /*--------------------
-4.7. Contacts
+4.7 Mentors
+----------------------*/
+section#mentor {
+	position: relative;
+}
+
+.mentor-item {
+	width: 480px;
+	text-align: center;
+	background: #EEEEEE;
+}
+
+.mentor-item h3 {
+	font-size: 24px;
+	font-weight: 800;
+	text-transform: uppercase;
+	color: #2D2D2D;
+	background: #BDBDBD;
+	padding: 8px;
+}
+
+.mentor-item .mentor-background {
+	color: #424242;
+	font-size: 18px;
+	font-weight: 800;
+	width: 480px;
+	padding: 0 12px 12px 8px;
+}
+
+.col-md-6 {
+	padding-left: 45px;
+	padding-bottom: 32px;
+}
+
+.announcement-item {
+	width: 100%;
+	position: absolute;
+	bottom:5%;
+}
+.announcement {
+	position:absolute;
+	text-align: center;
+	font-size: 24px;
+	width:75%;
+}
+/*--------------------
+4.8. Contacts
 --------------------*/
 
 section#contact form {
