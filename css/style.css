@@ -652,7 +652,7 @@ section#mentor {
 	width: 100%;
 	text-align: center;
 	background: #EEEEEE;
-	border-bottom-width: 8px;
+	border-bottom-width: 16px;
 	border-bottom-style: solid;
 	border-bottom-color: #FFFFFF;
 }
@@ -670,25 +670,21 @@ section#mentor {
 	color: #424242;
 	font-size: 18px;
 	font-family: 'Crimson Text','Roboto Slab', Sans-serif;
-	padding: 0 16px 12px;
-}
-
-.col-md-6 {
-	padding-left: 45px;
-	padding-bottom: 32px;
-}
-
-/*.announcement-item {
-	width: 100%;
-	position: absolute;
-	bottom:5%;
+	padding: 0 24px 12px;
 }
 .announcement {
-	position:absolute;
+	margin-left: 25%;
 	text-align: center;
+	width: 50%;
+	padding: 12px 0px;
+	border: solid;
+	border-color: #BDBDBD;
+}
+
+.announcement h4 {
 	font-size: 24px;
-	width:75%;
-}*/
+	/*font-weight: 600;*/
+}
 /*--------------------
 4.8. Contacts
 --------------------*/
