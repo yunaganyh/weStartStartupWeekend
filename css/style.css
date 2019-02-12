@@ -649,9 +649,12 @@ section#mentor {
 }
 
 .mentor-item {
-	width: 480px;
+	width: 100%;
 	text-align: center;
 	background: #EEEEEE;
+	border-bottom-width: 8px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;
 }
 
 .mentor-item h3 {
@@ -667,8 +670,7 @@ section#mentor {
 	color: #424242;
 	font-size: 18px;
 	font-weight: 800;
-	width: 480px;
-	padding: 0 12px 12px 8px;
+	padding: 0 12px 24px 24px;
 }
 
 .col-md-6 {
