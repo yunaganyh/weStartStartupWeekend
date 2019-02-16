@@ -253,6 +253,7 @@ header .intro-text .intro-lead-in {
 	color: #bbbbbb;
 	font-weight: 300;
 	line-height: 40px;
+
 }
 
 @media (min-width: 768px) {
@@ -269,7 +270,7 @@ header .intro-text .intro-heading {
 	font-size: 40px;
 	line-height: 48px;
 	margin-bottom: 25px;
-	letter-spacing: -3px;
+	/*letter-spacing: -3px;*/
 	word-spacing: 10px;
 	color: #FFFFFF;
 	text-shadow: 1px 1px 1px rgb(0, 0, 0);
@@ -649,6 +650,7 @@ section#mentor {
 }
 
 .mentor-item {
+	padding-top: 24px;
 	width: 100%;
 	text-align: center;
 	background: #EEEEEE;
